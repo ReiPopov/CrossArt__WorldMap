@@ -1,0 +1,153 @@
+1 - Две башни
+2 - Воздушная гавань
+3 - Врата Долины
+4 - Гараж Всадников апокалипсиса
+5 - Гнев Хана
+6 - Дорога пепла
+7 - Каньон
+8 - Каньон основателей
+9 - Кровавые скалы
+10 - Технология Опустошителей
+11 - База Уцелевшего
+12 - Путь утраченной памяти
+13 - Колизей Одегон
+14 - Оазис
+15 - Орбитальная станция
+16 - Песчаная гавань
+17 - Песчаная долина
+18 - Песчаный залив
+19 - Рок-Сити
+20 - Скалистая трасса
+21 - Сломанная стрела
+22 - Смертельная переправа
+23 - Стоянка Скитальцев
+24 - Токсичная трасса
+25 - Ущелье El Diablo
+26 - Чёртовы рудники +
+27 - Северный путь +
+28 - Вулкан +
+29 - Горная деревушка +/-
+30 - Фабрика Waderkwarn (Скринов нету)
+31 - Высокий собор +
+32 - Крепость +
+33 - Старый город +
+34 - Бастион Братства +
+35 - Кольцо пепла +
+36 - Наукоград +
+37 - Плацдарм Опустошителей +
+38 - Чистый остров +
+39 - Энергоузел +
+40 - Вострочный квартал +
+41 - Гараж Синдиката +
+42 - Городской пруд +
+43 - Мёртвый город +
+44 - Путь воина +
+45 - Святилище (БЕЗ ИИ, НЕВОЗМОЖНО ЗАЙТИ)
+46 - Синто-Сити +
+47 - Стадион Copperhead (Хз, в гараже и в инете нету)
+48 - Центральный стадион (Скринов нету)
+49 - Безымянная башня +
+50 - Горное озеро +
+51 - Заброшенный город
+52 - Затерянный берег
+53 - Кратер
+54 - Линия обороны
+55 - Мёртвое шоссе
+56 - Мост
+57 - Мраморный карьер
+58 - Опустевший город
+59 - Центральный стадион
+60 - Очистительный завод
+61 - Волчья застава
+62 - Восточный ретранслятор
+63 - Гараж Механиков
+64 - Гараж Штурмового отряда
+65 - Индустриальная трасса
+66 - Кладбище кораблей
+67 - Мирный атом
+68 - Речной маяк
+69 - Сектор EX
+70 - Станция Контроль-17
+71 - Старый гараж Механиков
+72 - Танковый полигон
+73 - Терминал-45
+74 - ТЭЦ
+75 - Фабрика
+76 - Химический завод
+
+1. https://crossout.fandom.com/ru/wiki/Две_Башни
+2.https://crossout.fandom.com/ru/wiki/Воздушная_гавань
+3. https://crossout.fandom.com/ru/wiki/Врата_Долины
+4.https://crossout.fandom.com/ru/wiki/Гараж_Всадников_апокалипсиса
+5.https://crossout.fandom.com/ru/wiki/Гнев_Хана
+6.https://crossout.fandom.com/ru/wiki/Дорога_пепла
+7. Каньон - нету
+8. https://crossout.fandom.com/ru/wiki/Каньон_Основателей
+9.https://crossout.fandom.com/ru/wiki/Кровавые_скалы/Карта
+10. нету
+11 нету
+12. нету
+13. https://crossout.fandom.com/ru/wiki/Пробуждение/Жизнь_гладиатора 
+14. https://crossout.fandom.com/ru/wiki/Локация_Оазис
+15. https://crossout.fandom.com/ru/wiki/Орбитальная_станция
+16.https://crossout.fandom.com/ru/wiki/Песчаная_гавань
+17. https://crossout.fandom.com/ru/wiki/Песчаная_долина
+18. https://crossout.fandom.com/ru/wiki/Песчаный_залив
+19. https://crossout.fandom.com/ru/wiki/Рок-Сити
+20.https://crossout.fandom.com/ru/wiki/Скалистая_трасса
+21. https://crossout.fandom.com/ru/wiki/Сломанная_стрела
+22. https://crossout.fandom.com/ru/wiki/Смертельная_переправа
+23. https://crossout.fandom.com/ru/wiki/Стоянка_Скитальцев
+24. гоночная трасса - Токсичная трасса (Нету)
+25.https://crossout.fandom.com/ru/wiki/Ущелье_El_Diablo
+26. https://crossout.fandom.com/ru/wiki/Чертовы_рудники
+27. https://crossout.fandom.com/ru/wiki/Северный_путь
+28.https://crossout.fandom.com/ru/wiki/Вулкан
+29. https://crossout.fandom.com/ru/wiki/Горная_деревушка
+30. https://crossout.fandom.com/wiki/Waderkvarn_factory
+31. https://crossout.fandom.com/ru/wiki/Высокий_собор
+32. https://crossout.fandom.com/ru/wiki/Крепость
+33.https://crossout.fandom.com/ru/wiki/Старый_город
+34. https://old.crossout.net/ru/news/2914-istorii-bastion-bratstva-panorama-lokacii/
+35. https://crossout.fandom.com/ru/wiki/Кольцо_пепла
+36. https://crossout.fandom.com/ru/wiki/Наукоград
+37. https://crossout.fandom.com/ru/wiki/Плацдарм_Опустошителей
+38. https://crossout.fandom.com/ru/wiki/Чистый_остров
+39.https://crossout.fandom.com/ru/wiki/Энергоузел
+40. https://crossout.fandom.com/ru/wiki/Восточный_квартал
+41. https://crossout.fandom.com/ru/wiki/Гараж_Синдиката
+42. https://crossout.fandom.com/ru/wiki/Городской_пруд
+43.https://crossout.fandom.com/ru/wiki/Мертвый_город
+44.https://crossout.fandom.com/ru/wiki/Путь_воина
+45. https://crossout.fandom.com/ru/wiki/Святилище
+46.https://crossout.fandom.com/ru/wiki/Синто-Сити
+47. https://crossout.fandom.com/ru/wiki/Стадион_Copperhead
+48.https://crossout.fandom.com/ru/wiki/Центральный_стадион
+49. https://crossout.fandom.com/ru/wiki/Безымянная_башня
+50. https://crossout.fandom.com/ru/wiki/Горное_озеро
+51. https://crossout.fandom.com/ru/wiki/Заброшенный_город
+52. https://crossout.fandom.com/ru/wiki/Затерянный_берег
+53.https://crossout.fandom.com/ru/wiki/Кратер
+54. https://crossout.fandom.com/ru/wiki/Линия_обороны
+55.https://crossout.fandom.com/ru/wiki/Мертвое_шоссе
+56. https://crossout.fandom.com/ru/wiki/Мост
+57. https://crossout.fandom.com/ru/wiki/Мраморный_карьер
+58. https://crossout.fandom.com/ru/wiki/Опустевший_город
+59. https://crossout.fandom.com/ru/wiki/Центральный_стадион
+60. https://crossout.fandom.com/ru/wiki/Очистительный_завод
+61. https://crossout.fandom.com/ru/wiki/Волчья_застава
+62.https://crossout.fandom.com/ru/wiki/Восточный_ретранслятор
+63. https://crossout.fandom.com/ru/wiki/Гараж_Механиков
+64. https://crossout.fandom.com/ru/wiki/Гараж_Штурмового_отряда
+65.https://crossout.fandom.com/ru/wiki/Индустриальная_трасса
+66.https://crossout.fandom.com/ru/wiki/Кладбище_кораблей
+67.https://crossout.fandom.com/ru/wiki/Мирный_атом
+68.https://crossout.fandom.com/ru/wiki/Речной_маяк
+69.https://crossout.fandom.com/ru/wiki/Сектор_EX
+70. https://crossout.fandom.com/ru/wiki/Станция_"Контроль-17"
+71. https://crossout.fandom.com/wiki/Engineer_garage
+72. https://crossout.fandom.com/ru/wiki/Танковый_полигон
+73. https://crossout.fandom.com/ru/wiki/Терминал-45
+74. https://crossout.fandom.com/ru/wiki/ТЭЦ
+75. https://crossout.fandom.com/ru/wiki/Фабрика
+76. https://crossout.fandom.com/ru/wiki/Химический_завод
