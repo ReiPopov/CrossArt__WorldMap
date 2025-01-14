@@ -14,7 +14,7 @@ main {
 	z-index: 10;
 	width: 100%;
 	height: 100%;
-	background-image: url('/CrossART__WorldMap/img/maintenance.jpg');
+	background-image: url('/CrossArt__WorldMap/img/maintenance.jpg');
 	background-size: 100% 100%;
 }
 
@@ -255,7 +255,7 @@ main {
 	box-shadow: 0px 0px 20px #000;
 	border-radius: 30px;
 	position: relative;
-	background-image: url('/CrossART__WorldMap/img/WorldMap/KPK.png');
+	background-image: url('/CrossArt__WorldMap/img/WorldMap/KPK.png');
 	background-size: 100% 100%;
 }
 .WorldMap > div {

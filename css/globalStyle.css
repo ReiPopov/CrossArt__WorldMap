@@ -7,7 +7,7 @@ body {
 	width: 100%;
 	height: auto;
 	overflow-x: hidden;
-	background-image: url('/CrossART__WorldMap/img/Background.jpg');
+	background-image: url('/CrossArt__WorldMap/img/Background.jpg');
 	background-size: cover;
 	position: relative;
 	display: flex;

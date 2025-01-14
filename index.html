@@ -7,20 +7,20 @@
 
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.3.0/css/all.css">
 
-	<link rel="stylesheet" href="/CrossART__WorldMap/css/globalStyle.css">
-	<link rel="stylesheet" href="/CrossART__WorldMap/css/adaptive.css">
-	<link rel="stylesheet" href="/CrossART__WorldMap/css/header.css">
-	<link rel="stylesheet" href="/CrossART__WorldMap/css/fonts.css">
-	<link rel="stylesheet" href="/CrossART__WorldMap/css/main.css">
-	<link rel="stylesheet" href="/CrossART__WorldMap/css/mapMpos.css">
-	<link rel="stylesheet" href="/CrossART__WorldMap/css/burger.css">
-	<link rel="stylesheet" href="/CrossART__WorldMap/css/adaptive.css">
+	<link rel="stylesheet" href="/CrossArt__WorldMap/css/globalStyle.css">
+	<link rel="stylesheet" href="/CrossArt__WorldMap/css/adaptive.css">
+	<link rel="stylesheet" href="/CrossArt__WorldMap/css/header.css">
+	<link rel="stylesheet" href="/CrossArt__WorldMap/css/fonts.css">
+	<link rel="stylesheet" href="/CrossArt__WorldMap/css/main.css">
+	<link rel="stylesheet" href="/CrossArt__WorldMap/css/mapMpos.css">
+	<link rel="stylesheet" href="/CrossArt__WorldMap/css/burger.css">
+	<link rel="stylesheet" href="/CrossArt__WorldMap/css/adaptive.css">
 </head>
-<body style="background-image: url('/CrossART__WorldMap/img/Background.jpg'); background-size: 100% 70%; background-position: center; width: 100%; height: auto;">
+<body style="background-image: url('/CrossArt__WorldMap/img/Background.jpg'); background-size: 100% 70%; background-position: center; width: 100%; height: auto;">
 	<main>
 		<div class="WorldMap">
 			<div class="mapMain" style="display: ; opacity: 1;">
-				<img src="/CrossART__WorldMap/img/WorldMap/WorldMap.jpg" alt="">
+				<img src="/CrossArt__WorldMap/img/WorldMap/WorldMap.jpg" alt="">
 
 				<label class="mapMain-label m1"
 				data-name='Две башни'
@@ -784,13 +784,13 @@
 
 				<div class="mapMain-preview" style="display: none; opacity: 0;">
 					<img src="" alt="" id="mapPrev-img">
-					<img src="/CrossART__WorldMap/img/WorldMap/prevFrame.png" alt="">
+					<img src="/CrossArt__WorldMap/img/WorldMap/prevFrame.png" alt="">
 					<h1>Мост</h1>
 				</div>
 			</div>
 
 			<div class="mapView" style="display: none; opacity: 0;">
-				<img src="/CrossART__WorldMap/img/WorldMap/56/KPK.webp" alt="" id="KPK">
+				<img src="/CrossArt__WorldMap/img/WorldMap/56/KPK.webp" alt="" id="KPK">
 				<button class="go-back" style="position: absolute; top: 32%; right: 10px; opacity: 0;" onclick="BTNgoBack()">- Назад</button>
 				<h2 style="opacity: 0;">МОСТ</h2>
 				<div class="mapDesc" style="opacity: 0;">
@@ -831,7 +831,7 @@
 		for(let i = 1; i <= 76; i++){
 			document.querySelector('.m' + i).addEventListener('mouseover', function() {
 				currentM = i
-				document.querySelector('#mapPrev-img').src = '/CrossART__WorldMap/img/WorldMap/'+ currentM +'/prev.webp'
+				document.querySelector('#mapPrev-img').src = '/CrossArt__WorldMap/img/WorldMap/'+ currentM +'/prev.webp'
 				document.querySelector('.mapMain-preview').style.display = ''
 				document.querySelector('.mapMain-preview').style.opacity = '1'
 
@@ -976,17 +976,17 @@
 				}
 
 
-				document.querySelector('#KPK').src = '/CrossART__WorldMap/img/WorldMap/'+ currentM +'/KPK.webp'
+				document.querySelector('#KPK').src = '/CrossArt__WorldMap/img/WorldMap/'+ currentM +'/KPK.webp'
 
 				// document.querySelector('.map-photo' + 1).src = '/img/WorldMap/'+ currentM +'/тест.png'
 				// document.querySelector('.map-photo' + 2).src = '/img/WorldMap/'+ currentM +'/тест.png'
 				// document.querySelector('.map-photo' + 3).src = '/img/WorldMap/'+ currentM +'/тест.png'
 				// document.querySelector('.map-photo' + 4).src = '/img/WorldMap/'+ currentM +'/тест.png'
 
-				document.querySelector('.map-photo' + 1).src = '/CrossART__WorldMap/img/WorldMap/'+ currentM +'/prev.webp'
-				document.querySelector('.map-photo' + 2).src = '/CrossART__WorldMap/img/WorldMap/'+ currentM +'/photo1.webp'
-				document.querySelector('.map-photo' + 3).src = '/CrossART__WorldMap/img/WorldMap/'+ currentM +'/photo2.webp'
-				document.querySelector('.map-photo' + 4).src = '/CrossART__WorldMap/img/WorldMap/'+ currentM +'/miniMap.webp'
+				document.querySelector('.map-photo' + 1).src = '/CrossArt__WorldMap/img/WorldMap/'+ currentM +'/prev.webp'
+				document.querySelector('.map-photo' + 2).src = '/CrossArt__WorldMap/img/WorldMap/'+ currentM +'/photo1.webp'
+				document.querySelector('.map-photo' + 3).src = '/CrossArt__WorldMap/img/WorldMap/'+ currentM +'/photo2.webp'
+				document.querySelector('.map-photo' + 4).src = '/CrossArt__WorldMap/img/WorldMap/'+ currentM +'/miniMap.webp'
 
 				setTimeout(()=>{
 					document.querySelector('.mapView').style.opacity = '1'
